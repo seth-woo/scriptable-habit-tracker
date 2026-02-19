@@ -1,6 +1,6 @@
 # scriptable-habit-tracker
 
-**TL;DR:** Dot-style Countdown Habit Tracker on iOS via Scriptable
+**TL;DR:** Dot-style Countdown Habit Tracker Widget on iOS (via Scriptable)
 
 A customizable iOS Scriptable widget that visualizes progress toward a habit or goal as a grid of dots from a start date to an end date. It supports event labels, countdown text, configurable colors/layout, and an optional background image for a clean, motivating home-screen tracker.
 
