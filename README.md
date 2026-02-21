@@ -24,7 +24,7 @@ In each mode, the dot grid, event label, days-left text, color opacity, and back
 4. Rename the script.
 5. Tap `Run` in the bottom-right corner.
 
-The spacing in this script is optimized for a medium-size widget (4x2 app icons).
+The spacing in this script is optimized for a medium-size widget (4x2 app icons) on a 6.3" display (iPhone 16 Pro). 
 
 To add the widget to Home Screen:
 
