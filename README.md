@@ -35,3 +35,7 @@ To add the widget to Home Screen:
 5. Long-press the new widget and tap `Edit Widget`.
 6. Select your script by name.
 7. Set interaction behavior to `Run Script`.
+
+## License
+
+This repository is licensed under the [MIT License](LICENSE.md).
