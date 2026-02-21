@@ -38,4 +38,4 @@ To add the widget to Home Screen:
 
 ## License
 
-This repository is licensed under the [MIT License](LICENSE.md).
+This repository is licensed under the [MIT License](LICENSE).
